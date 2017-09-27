@@ -1,8 +1,14 @@
 ## Hey there!
 
-This is a blog. A bloggy blog. A very bloggy blog.
+You've found my blog! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###27 September 2017
+
+#### Numerai
+
+**Numer.ai** is a hedgefund. They encrypt their data while (alegedly) maintian its structure, and challenge the public to do predictive analytics. It's not outragously successful... but it's a cool idea. Ensemble Methods for machine learning tend to be pretty great: you create a load of predictive models, and then you combine them to create a super-model. The super-model can be better than its composite submodels. **Numer.ai** combines different people's models to create a super-model that it trades off. Presumably. They're pretty taciturn about what they actually do with the predictions.
+
+--markdown
 
 ### Markdown
 
