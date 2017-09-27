@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Hey there!
 
-You can use the [editor on GitHub](https://github.com/WillTKaufhold/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is a blog. A bloggy blog. A very bloggy blog.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
